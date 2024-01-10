@@ -1,1 +1,1 @@
-# C-Activities
+I created this straightforward program and associated activities during my second year, incorporating basic fundamentals and object-oriented programming (OOP) concepts into the projects. Please feel free to use this code as your reference and source of inspiration for enhancing and developing more advanced programs.
