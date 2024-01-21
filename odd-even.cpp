@@ -4,6 +4,7 @@ using namespace std;
 
 int main() {
     int iterations;
+    // christian Valdez
 
     cout << "Enter the number of iterations: ";
     cin >> iterations;
