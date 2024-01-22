@@ -2,7 +2,7 @@
 #include <string>
 
 using namespace std;
-
+// Christian Valdez
 int main() {
     const int NUM_QUARTERS = 4;
     const int NUM_SUBJECTS = 5;
